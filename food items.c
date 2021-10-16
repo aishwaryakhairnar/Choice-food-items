@@ -14,7 +14,7 @@ main()
 	    	printf("Food item-Burger.\n Price-Rs129");
 	    	break;
 	   case 3:	
-	        printf("Food item-Sandwich,.\n Price-Rs149");
+	        printf("Food item-Sandwich.\n Price-Rs149");
 	        break;
 	   case 4:	
 		printf("Food item-Pasta.\n Price-Rs179");
